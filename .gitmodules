@@ -1,0 +1,6 @@
+[submodule "BeiBob-KiCAD-footprints"]
+	path = BeiBob-KiCAD-footprints
+	url = https://github.com/GroooveBob/BeiBob-KiCAD-footprints
+[submodule "Kicad-RP2040-lib"]
+	path = Kicad-RP2040-lib
+	url = https://github.com/Sleepdealr/Kicad-RP2040-lib
