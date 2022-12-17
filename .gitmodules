@@ -4,3 +4,9 @@
 [submodule "Kicad-RP2040-lib"]
 	path = Kicad-RP2040-lib
 	url = https://github.com/Sleepdealr/Kicad-RP2040-lib
+[submodule "random-keyboard-parts"]
+	path = random-keyboard-parts
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
+[submodule "MX-Alps-Hybrid"]
+	path = MX-Alps-Hybrid
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.pretty
