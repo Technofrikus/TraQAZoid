@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "BeiBob-KiCAD-footprints")(type "KiCad")(uri "/Users/tf/Nextcloud/gitfolder/TraQAZoid/submodules/BeiBob-KiCAD-footprints")(options "")(descr ""))
+  (lib (name "tiny2040")(type "KiCad")(uri "/Users/tf/Nextcloud/gitfolder/TraQAZoid/submodules/tiny2040/tiny2040.pretty")(options "")(descr ""))
+  (lib (name "marbastlib")(type "KiCad")(uri "/Users/tf/Nextcloud/gitfolder/TraQAZoid/submodules/marbastlib")(options "")(descr ""))
+)

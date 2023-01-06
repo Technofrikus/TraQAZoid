@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "beibob")(type "KiCad")(uri "/Users/tf/Nextcloud/gitfolder/TraQAZoid/submodules/BeiBob-KiCAD-footprints/SYM/beibob.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "/Users/tf/Nextcloud/gitfolder/TraQAZoid/submodules/marbastlib/marbastlib-mx.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "/Users/tf/Nextcloud/gitfolder/TraQAZoid/submodules/marbastlib/marbastlib-various.kicad_sym")(options "")(descr ""))
+  (lib (name "tiny2040")(type "KiCad")(uri "/Users/tf/Nextcloud/gitfolder/TraQAZoid/submodules/tiny2040/tiny2040.kicad_sym")(options "")(descr ""))
+)
