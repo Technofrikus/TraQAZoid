@@ -1132,7 +1132,7 @@
     (property "Value" "MX_stab" (id 1) (at 143.51 175.1329 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "marbastlib-mx:STAB_MX_P_6.25u" (id 2) (at 137.16 173.99 0)
+    (property "Footprint" "marbastlib:STAB_MX_P_2u" (id 2) (at 137.16 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 137.16 173.99 0)
@@ -1231,7 +1231,7 @@
     (property "Value" "MX_stab" (id 1) (at 100.33 175.1329 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "marbastlib-mx:STAB_MX_P_6.25u" (id 2) (at 93.98 173.99 0)
+    (property "Footprint" "marbastlib:STAB_MX_P_2u" (id 2) (at 93.98 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 93.98 173.99 0)
@@ -1863,7 +1863,7 @@
     (property "Value" "MX_stab" (id 1) (at 123.19 175.1329 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "marbastlib-mx:STAB_MX_P_6.25u" (id 2) (at 116.84 173.99 0)
+    (property "Footprint" "marbastlib:STAB_MX_P_7u" (id 2) (at 116.84 173.99 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 116.84 173.99 0)
@@ -2134,13 +2134,13 @@
       (reference "D18") (unit 1) (value "BAV70") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
     (path "/2d18890b-1c40-40b2-b29a-614110db613d"
-      (reference "S1") (unit 1) (value "MX_stab") (footprint "marbastlib-mx:STAB_MX_P_6.25u")
+      (reference "S1") (unit 1) (value "MX_stab") (footprint "marbastlib:STAB_MX_P_2u")
     )
     (path "/cf92cfbf-bbf9-4882-92bc-563d0035845a"
-      (reference "S2") (unit 1) (value "MX_stab") (footprint "marbastlib-mx:STAB_MX_P_6.25u")
+      (reference "S2") (unit 1) (value "MX_stab") (footprint "marbastlib:STAB_MX_P_7u")
     )
     (path "/16515311-8f86-49e4-bd28-0bf53e99199b"
-      (reference "S3") (unit 1) (value "MX_stab") (footprint "marbastlib-mx:STAB_MX_P_6.25u")
+      (reference "S3") (unit 1) (value "MX_stab") (footprint "marbastlib:STAB_MX_P_2u")
     )
     (path "/bc39e27f-f3e5-40a6-867d-1dd1873b3491"
       (reference "SW1") (unit 1) (value "MX_SW_HS") (footprint "BeiBob-KiCAD-footprints:SW_Kailh_socket_MX_optional")
