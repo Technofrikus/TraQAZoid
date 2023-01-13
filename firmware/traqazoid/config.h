@@ -5,8 +5,8 @@
 #include "config_common.h"
 
 /* --- USB Device properties --- */
-#define VENDOR_ID 0xFAB0
-#define PRODUCT_ID 0xFAB3
+#define VENDOR_ID 0x3522
+#define PRODUCT_ID 0x5211
 #define DEVICE_VER 0x0001
 #define MANUFACTURER Moinboards
 #define PRODUCT TraQAZoid
@@ -17,9 +17,9 @@
 
 /* --- Matrix assignment --- */ 
 #define MATRIX_COL_PINS \
-    { GP29, GP28, GP27, GP26, GP0, GP1 }
+    { GP29, GP28, GP7, GP6, GP1, GP0}
 #define MATRIX_ROW_PINS \
-    { GP2, GP3, GP4, GP5, GP6, GP7 } 
+    { GP27, GP26, GP5, GP4, GP3, GP2} 
 
 /* --- additional settings --- */
 #define DEBUG_MATRIX_SCAN_RATE
